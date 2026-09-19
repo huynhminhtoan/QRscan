@@ -1,0 +1,20 @@
+{
+  "hospitalName": "BỆNH VIỆN MẮT Á CHÂU",
+  "address": "141 Tôn Thất Đạm, P. Sài Gòn, TP.HCM",
+  "hotline": "1900 633 433 – 0768 734 677",
+  "website": "matachau.com",
+
+  "programTitle": "CHƯƠNG TRÌNH KHÁM MẮT VÀ PHÁT THUỐC MIỄN PHÍ*",
+  "coOrg": "VIỆN Y DƯỢC HỌC DÂN TỘC TP. HỒ CHÍ MINH",
+
+  "logos": [
+    { "src": "logo-1.png", "height": 46, "alt": "Bệnh viện Mắt Á Châu" },
+    { "src": "logo-2.png", "height": 64, "alt": "Viện Y dược học dân tộc TP.HCM" }
+  ],
+
+  "thanks": [
+    "Bệnh viện Mắt Á Châu xin trân trọng cảm ơn **Viên chức/Người lao động/Người thân của Viện Y dược học dân tộc TP. Hồ Chí Minh và người dân** đã tham gia Chương trình **KHÁM MẮT VÀ PHÁT THUỐC MIỄN PHÍ**.",
+    "Sự hiện diện và đồng hành của Quý khách hàng là nguồn động lực để chương trình tiếp tục lan tỏa ý nghĩa nhân văn, góp phần nâng cao ý thức chăm sóc sức khỏe mắt và chất lượng cuộc sống cho cộng đồng."
+  ]
+}
+
